@@ -1,0 +1,5 @@
+number = 79
+user_guess = input("Guess my number:")
+if number == int(user_guess):
+	print("You guessed the right number!")
+	elif)
